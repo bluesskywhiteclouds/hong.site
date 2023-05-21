@@ -43,7 +43,7 @@ module.exports = {
   isPreviewImageSupportEnabled: true,
 
   // set null to remove from year
-  copyRightFromYear: 2019,
+  copyRightFromYear: 2023,
 
   // map of notion page IDs to URL paths (optional)
   // any pages defined here will override their default URL paths
